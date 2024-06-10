@@ -1,0 +1,11 @@
+Flask
+Flask-Cors
+Werkzeug
+langchain
+openai
+python-dotenv
+langchain-openai 
+Gunicorn
+langchain_experimental
+pandas
+tabulate
